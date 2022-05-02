@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/converter/static/css/main.ccf49ee2.css",
+    "main.js": "/converter/static/js/main.60ddbce6.js",
+    "index.html": "/converter/index.html",
+    "main.ccf49ee2.css.map": "/converter/static/css/main.ccf49ee2.css.map",
+    "main.60ddbce6.js.map": "/converter/static/js/main.60ddbce6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccf49ee2.css",
+    "static/js/main.60ddbce6.js"
+  ]
+}

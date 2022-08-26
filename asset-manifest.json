@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/harmonity-test/static/css/main.b1e6b7f9.css",
+    "main.js": "/harmonity-test/static/js/main.2b68ab35.js",
+    "static/media/dots.png": "/harmonity-test/static/media/dots.643b4ee60222f0e0217e.png",
+    "index.html": "/harmonity-test/index.html",
+    "main.b1e6b7f9.css.map": "/harmonity-test/static/css/main.b1e6b7f9.css.map",
+    "main.2b68ab35.js.map": "/harmonity-test/static/js/main.2b68ab35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1e6b7f9.css",
+    "static/js/main.2b68ab35.js"
+  ]
+}
